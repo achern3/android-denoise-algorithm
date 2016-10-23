@@ -1,6 +1,6 @@
 # android-denoise-algorithm
-Android noise-reduction algorithms.
-This class provides some noise-reduction algorithms based on this paper: http://www.citi.sinica.edu.tw/papers/yu.tsao/4900-F.pdf
+Android noise-reduction algorithms.  
+This class provides some noise-reduction algorithms based on this paper: http://www.citi.sinica.edu.tw/papers/yu.tsao/4900-F.pdf  
 It utilizes the Fast Fourier transform (FFT) functions from libgdx audio library, and manipulates input audio to output noise-reduced data.
 
 ## Overview
